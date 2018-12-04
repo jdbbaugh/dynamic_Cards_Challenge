@@ -1,3 +1,17 @@
+body {
+    background-color: rgb(242, 170, 170);
+}
+button {
+    margin: 5px;
+}
+
 .card {
     border: 2px solid black;
+    background: lightblue;
+    margin: 8px;
+    border-radius: 10px;
+}
+
+div {
+    margin: 5px;
 }
