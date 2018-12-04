@@ -1,6 +1,11 @@
 body {
     background-color: rgb(242, 170, 170);
 }
+
+textarea {
+    background-color: bisque;
+}
+
 button {
     margin: 5px;
 }
